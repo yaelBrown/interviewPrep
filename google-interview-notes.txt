@@ -1,0 +1,76 @@
+https://www.youtube.com/watch?v=ko-KkSmp-Lk
+
+prove whats on your resume
+
+	data structures and algorithmys
+	has table 
+	stacks
+	arrays
+
+	code on a white board
+
+	brushed up on system design
+	ood
+
+effient code in a short time is key
+
+offer multiple solutions
+
+interviewer wants to be comfortable working with you on their team
+
+familiar with one coding language
+	c++ 
+	java
+
+	how to test your code
+
+	corner cases and edge cases
+
+	algorithms are important
+		time and space complexity
+		how to improve or change it
+
+		"O of N algorith"
+
+		djiksta or a-star 
+
+how to unit test code
+security test
+
+data structures (study up now)
+
+	traveling sales 
+	np complete
+	basic tree construction
+	has tables 
+	stacks 
+	arrays
+
+Math
+	probability theory
+	common netorics
+
+Recursion
+
+Operating systems
+	properties
+	threads
+	resoruce allocation
+	content switching
+		os
+		underlying hardware
+	scheduling
+
+system design
+	feature sets
+	heirarchy
+
+
+Explain and clarify
+	say what you thinking than stay silent
+	questions are intentially vague
+	time or space complexity requirements
+	
+	Keep thinking through the problems
+	
+	practice writing code
